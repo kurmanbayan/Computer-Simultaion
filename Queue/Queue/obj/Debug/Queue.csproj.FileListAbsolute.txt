@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Queue\Queue\bin\Debug\Queue.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Queue\Queue\bin\Debug\Queue.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Queue\Queue\bin\Debug\Queue.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Queue\Queue\obj\Debug\Queue.pdb
